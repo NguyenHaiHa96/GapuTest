@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Game Play Assets
+  m_EditorClassIdentifier: 
+  m_GroupName: Game Play Assets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1aa7d5b1a8c5c424eac18b20efd2e1b0
+  m_SerializeEntries:
+  - m_GUID: 01a235ed90860d64dbc2764a36ab00c4
+    m_Address: Assets/Project/Addressable/GamePlay/DrawingLine.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8420bec8eb1aa534780b06bdd164397c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9cb64d2d761b6bf4289a96d3d9c20a8e, type: 2}
+    - {fileID: 11400000, guid: 0a4a653c48de6cb4e81a2b6b60a4cb29, type: 2}
